@@ -20,16 +20,18 @@ function doingtherpg(items) {
         let tr = document.createElement('tr');
 
         let td1 = document.createElement('td');
+        td1.classList.add('elements-name');
         td1.innerHTML = item.name;
         tr.appendChild(td1);
 
         let td2 = document.createElement('td');
-        td2.innerHTML = item.type;
+        td2.classList.add('elements-description');
+        td2.innerHTML = item.description;
         tr.appendChild(td2);
 
         table.appendChild(tr);
+        table.classList.add('elements-table');
     }
-
     const masterDiv = document.querySelector('.chatblock');
     masterDiv.appendChild(table);
 }

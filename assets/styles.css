@@ -73,6 +73,27 @@ article {
     box-shadow: 0.5px 0.3px 0.5px rgba(0, 0, 0, 0.141);
 }
 
+.storeArticle {
+    justify-content: center;
+    background-color: #fff;
+    max-width: 95%;
+    height: 120vh;
+    margin: auto;
+    margin-top: 40px;
+    padding: 20rem 0;
+    border-radius: 10px;
+    box-shadow: 0.5px 0.3px 0.5px rgba(0, 0, 0, 0.141);
+}
+
+table {
+    margin-top: 20px;
+}
+
+table tr, td {
+    display: block;
+    
+}
+
 select {
     margin-top: 10px;
 }
