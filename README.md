@@ -8,6 +8,8 @@ Para ter acesso total ao projeto, faça download do código e utilize o Live Ser
 
 Por agora, a página principal e o sources estão em andamento.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 A random RPG generator!
 
 You can access this project with this link: https://invokedzz.github.io/rpGenerator/
